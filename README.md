@@ -42,7 +42,7 @@ The stack used: PHP/Laravel, MySQL.
 
 ## Database
 
-![](docs/images/light_theme/DataBase.png)
+![](docs/images/light_theme/Database.png)
 
 [🔝Table of contents](#table-of-contents)
 
