@@ -58,7 +58,7 @@ class OrderController extends Controller {
     }
 
     public function showItem($id) {
-        $order = Orders::find($id)->first();
+        $order = Orders::find($id);
         return view('order-item', [
             'order' => $order,
             'address' => Addresses::find($order->address_id),

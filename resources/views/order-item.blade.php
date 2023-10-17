@@ -14,7 +14,7 @@
         <h5> City: {{ $address->city }} </h5>
         <h5> Street: {{ $address->street }} </h5>
         <h5> House: {{ $address->house }} </h5>
-        <h5> Apartment: {{ $address->appartment }} </h5>
+        <h5> Apartment: {{ $address->apartment }} </h5>
         <h5> Entrance: {{ $address->entrance }} </h5>
         <h5> Floor: {{ $address->floor }} </h5>
         <h5> Intercom: {{ $address->intercom }} </h5>
